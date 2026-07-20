@@ -1,8 +1,17 @@
 <!-- ================= Hero Section ================= -->
+<!-- ================= Hero Section ================= -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Hassan Ahmed Siddiqui Banner" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-animated.webp">
+    <img src="./assets/banner-animated.gif" alt="Hassan Ahmed Siddiqui - Building Premium Digital Experiences" width="100%" />
+  </picture>
 </p>
 
+<!-- Add a clean break before the content begins -->
+<br>
+<br>
+
+<!-- Your invisible table grid starts here -->
 <h1 align="center">Hi, I'm Hassan Ahmed Siddiqui..!!</h1>
 <h3 align="center">Full Stack Developer • UI Engineer</h3>
 
