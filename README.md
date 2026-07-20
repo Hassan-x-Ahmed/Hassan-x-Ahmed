@@ -2,8 +2,8 @@
 <!-- ================= Hero Section ================= -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-animated.webp">
-    <img src="./assets/banner-animated.gif" alt="Hassan Ahmed Siddiqui - Building Premium Digital Experiences" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.png">
+    <img src="./assets/banner.png" alt="Hassan Ahmed Siddiqui - Building Premium Digital Experiences" width="100%" />
   </picture>
 </p>
 
