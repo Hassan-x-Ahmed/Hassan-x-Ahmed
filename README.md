@@ -1,16 +1,37 @@
-## Hi there 👋
+<!-- ================= Banner ================= -->
 
-<!--
-**Hassan-x-Ahmed/Hassan-x-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner goes here -->
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm Hassan Ahmed Siddiqui
+
+Short introduction goes here.
+
+---
+
+## About Me
+
+---
+
+## What I Build
+
+---
+
+## Tech Stack
+
+---
+
+## Featured Projects
+
+---
+
+## GitHub Stats
+
+---
+
+## Current Focus
+
+---
+
+## Let's Connect
